@@ -1,0 +1,3 @@
+[submodule "LGK.Injection"]
+	path = LGK.Injection
+	url = https://github.com/NED-Studio/LGK.Injection
